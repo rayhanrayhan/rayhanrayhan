@@ -20,8 +20,7 @@ Skills: REACT / JS / HTML5 / CSS3 / MONGODB / EXPRESS JS / NODE JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhanrayhan&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rayhanrayhan)  
-
 ![GitHub metrics](https://metrics.lecoq.io/rayhanrayhan)  
 
-![Profile views](https://gpvc.arturio.dev/rayhanrayhan)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rayhanrayhan)  
+
