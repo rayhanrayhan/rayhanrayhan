@@ -1,7 +1,7 @@
 ![MERN STACK DEVELOPER](https://media.licdn.com/dms/image/D5616AQHJikH-YYrJJw/profile-displaybackgroundimage-shrink_350_1400/0/1687255074877?e=1692835200&v=beta&t=4ibae7SWZo7-KMQHNQj-27TTzOutLR9yvZphH0v0Z-A)
 
 ### Hi there 👋, I'm MD RAYHAN UDDIN REMON
-#### MERN STACK DEVELOPER
+#### FRONT END DEVELOPER
 
 
 I am a Web Developer, specialized in Front-End technologies like HTML5, CSS3, JavaScript, ES6, React JS, CURD, REST API, Bootstrap, Tailwind, etc. I have also worked with  Node JS, Express JS, MongoDB, Firebase. My main strength is I have 
