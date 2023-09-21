@@ -1,13 +1,11 @@
-![MERN STACK DEVELOPER](https://media.licdn.com/dms/image/D5616AQHJikH-YYrJJw/profile-displaybackgroundimage-shrink_350_1400/0/1687255074877?e=1692835200&v=beta&t=4ibae7SWZo7-KMQHNQj-27TTzOutLR9yvZphH0v0Z-A)
-
-### Hi there 👋, I'm MD RAYHAN UDDIN REMON
+### Hi there 👋, my name is MD RAYHAN UDDIN REMON
 #### FRONT END DEVELOPER
-
+![FRONT END DEVELOPER](https://media.licdn.com/dms/image/D5616AQHJikH-YYrJJw/profile-displaybackgroundimage-shrink_350_1400/0/1687255074877?e=1700697600&v=beta&t=fKaVEbAyAdXJ4KHipsWbgRJVdLBu0NAk4qWUEGpr6IE)
 
 I am a Web Developer, specialized in Front-End technologies like HTML5, CSS3, JavaScript, ES6, React JS, CURD, REST API, Bootstrap, Tailwind, etc. I have also worked with  Node JS, Express JS, MongoDB, Firebase. My main strength is I have 
 Committed to delivering high-quality work with a positive attitude and Strives for perfection in every project.
 
-Skills: REACT / JS / HTML5 / CSS3 / MONGODB / EXPRESS JS / NODE JS  
+Skills: REACT JS / JS / HTML5 / CSS3 / MONGODB / EXPRESS JS / NODE JS  /REDUX
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning programming-hero Cours based in Marn Stack Web Developer 
